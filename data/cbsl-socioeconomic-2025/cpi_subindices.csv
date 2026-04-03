@@ -1,0 +1,22 @@
+year,ccpi_base,ccpi_overall_index,ccpi_food_index,ccpi_housing_utilities_index,ccpi_transport_index,ccpi_communication_index,ccpi_education_index,ccpi_core_index,ccpi_overall_change_pct,ccpi_food_change_pct,ccpi_housing_change_pct,ccpi_transport_change_pct,ccpi_health_change_pct,ccpi_clothing_change_pct,ncpi_base,ncpi_overall_index,ncpi_overall_change_pct,construction_cost_index_1990base,notes,source
+2003,2002=100,105.8,102.6,112.0,106.7,107.8,107.9,,,,,,,,,,,220.6,,CBSL Socio-Economic Data 2008
+2004,2002=100,115.3,111.9,123.1,125.4,121.6,114.1,,9.0,,,,,,,,,245.2,,CBSL Socio-Economic Data 2008
+2005,2002=100,128.0,124.7,146.4,141.2,121.4,119.7,,11.0,,,,,,,,,290.6,,CBSL Socio-Economic Data 2008
+2006,2002=100,140.8,135.8,174.2,156.7,120.5,126.3,,10.0,,,,,,,,,343.5,,CBSL Socio-Economic Data 2008
+2007,2002=100,163.1,163.4,206.6,178.1,119.8,133.7,152.6,15.8,,,,,,,,,387.6,,CBSL Socio-Economic Data 2008
+2008,2002=100,199.9,213.3,226.8,240.3,100.0,141.0,173.4,22.6,,,,,,,,,444.8,,CBSL Socio-Economic Data 2010
+2009,2002=100,206.8,219.2,227.5,238.8,107.0,152.0,189.3,3.4,,,,,,,,,456.3,,CBSL Socio-Economic Data 2010
+2009,2006/07=100,133.6,148.5,115.1,138.4,88.2,120.7,131.7,3.5,,,,,,,,,456.3,Two series overlap in 2009; 2002-base from 2010 report; 2006/07-base from 2015 report,CBSL Socio-Economic Data 2015
+2010,2006/07=100,141.9,158.8,119.2,139.7,90.3,135.9,140.9,6.2,,,,,,,,,465.9,,CBSL Socio-Economic Data 2015
+2011,2006/07=100,151.5,172.7,124.4,149.6,90.3,140.6,150.6,6.7,,,,,,,,,490.9,,CBSL Socio-Economic Data 2015
+2012,2006/07=100,162.9,180.9,136.4,181.9,90.3,141.2,159.4,7.6,,,,,,,,,550.9,,CBSL Socio-Economic Data 2015
+2013,2006/07=100,174.2,195.2,151.0,190.2,90.3,142.6,166.5,6.9,,,,,,,,,590.4,,CBSL Socio-Economic Data 2015
+2014,2006/07=100,179.9,202.5,152.7,198.9,93.9,143.3,172.3,3.3,,,,,2013=100,105.5,,,604.9,,CBSL Socio-Economic Data 2015
+2015,2013=100,107.4,,,,,,111.1,2.2,,,,,2013=100,109.5,3.8,,,CBSL Socio-Economic Data 2020
+2016,2013=100,111.7,,,,,,116.0,4.0,,,,,2013=100,113.8,4.0,,,CBSL Socio-Economic Data 2020
+2017,2013=100,119.0,,,,,,122.8,6.6,,,,,2013=100,122.6,7.7,,,CBSL Socio-Economic Data 2020
+2018,2013=100,124.1,,,,,,127.1,4.3,,,,,2013=100,125.2,2.1,,,CBSL Socio-Economic Data 2020
+2019,2013=100,129.5,,,,,,134.2,4.3,,,,,2013=100,129.6,3.5,,,CBSL Socio-Economic Data 2020
+2022,2021=100,163.5,208.4,122.2,204.3,99.8,,150.0,,,,,,,2021=100,174.9,,1434.6,Crisis year; CCPI rebased to 2021 from Feb 2023,CBSL Socio-Economic Data 2025
+2023,2021=100,191.8,233.5,148.9,230.4,119.8,,171.7,17.4,12.1,21.9,12.8,18.7,39.3,2021=100,203.8,16.5,1418.3,,CBSL Socio-Economic Data 2025
+2024,2021=100,194.2,237.3,143.4,233.7,124.1,,177.2,1.2,1.6,-3.7,1.4,2.2,1.4,2021=100,207.1,1.6,1353.3,Provisional,CBSL Socio-Economic Data 2025

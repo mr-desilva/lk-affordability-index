@@ -1,0 +1,24 @@
+year,gdp_rs_bn,gni_rs_bn,percapita_gni_rs,percapita_gni_usd,real_gdp_growth_pct,ccpi_annual_avg_pct,ccpi_base,ncpi_annual_avg_pct,ncpi_base,exchange_rate_rs_per_usd_avg,unemployment_pct,labour_force_participation_pct,gdp_base_year,notes,source
+2003,1823,1806,93805,972,5.9,,,,,96.52,8.4,48.9,2002 prices,Labour force excl. Northern Province; GNP used (pre-GNI terminology),CBSL Socio-Economic Data 2008
+2004,2091,2070,106367,1051,5.4,9.0,2002=100,,,,8.3,48.6,2002 prices,Labour force excl. Kilinochchi and Mullaitivu districts,CBSL Socio-Economic Data 2008
+2005,2453,2423,123181,1226,6.2,11.0,2002=100,,,,7.7,48.3,2002 prices,Labour force all districts (one-off survey Aug 2005),CBSL Socio-Economic Data 2008
+2006,2939,2898,145742,1402,7.7,10.0,2002=100,,,,6.5,51.2,2002 prices,Labour force excl. Northern and Eastern provinces,CBSL Socio-Economic Data 2008
+2007,3578,3540,176890,1599,6.8,15.8,2002=100,,,,6.0,49.8,2002 prices,Labour force excl. Northern and Eastern provinces,CBSL Socio-Economic Data 2008
+2008,4411,4306,212972,1966,6.0,22.6,2002=100,,,,5.4,49.5,2002 prices,Labour force excl. Northern province,CBSL Socio-Economic Data 2010
+2009,4825,4769,233216,2029,3.5,3.4,2002=100,,,,5.8,48.7,2002 prices,Labour force excl. Northern province,CBSL Socio-Economic Data 2010
+2010,6414,6344,306839,2714,,6.2,2006/07=100,,,,4.9,48.1,2010 prices,GDP rebased to 2010; real growth not directly comparable; labour force excl. Northern Province,CBSL Socio-Economic Data 2015
+2011,7219,7147,342473,3097,8.4,6.7,2006/07=100,,,,4.2,47.8,2010 prices,Labour force excl. Northern and Eastern provinces,CBSL Socio-Economic Data 2015
+2012,8732,8578,419975,3291,9.1,7.6,2006/07=100,,,,4.0,52.6,2010 prices,Full island labour force coverage from 2012,CBSL Socio-Economic Data 2015
+2013,9592,9366,455126,3525,3.4,6.9,2006/07=100,,,,4.4,53.8,2010 prices,,CBSL Socio-Economic Data 2015
+2014,10292,10052,483921,3707,4.5,3.3,2006/07=100,,,,4.3,53.3,2010 prices,Provisional,CBSL Socio-Economic Data 2015
+2015,10951,10676,509103,3745,5.0,2.2,2013=100,3.8,2013=100,135.94,4.7,53.8,2010 prices,CCPI base rebased to 2013 from 2016; NCPI introduced,CBSL Socio-Economic Data 2020
+2016,11996,11676,550697,3782,4.5,4.0,2013=100,4.0,2013=100,145.60,4.4,53.8,2010 prices,,CBSL Socio-Economic Data 2020
+2017,13328,12975,605076,3969,3.6,6.6,2013=100,7.7,2013=100,152.46,4.2,54.1,2010 prices,Revised,CBSL Socio-Economic Data 2020
+2018,14366,13977,644670,3968,3.3,4.3,2013=100,2.1,2013=100,162.54,4.4,51.8,2010 prices,Revised,CBSL Socio-Economic Data 2020
+2019,15016,14584,668894,3741,2.3,4.3,2013=100,3.5,2013=100,178.78,4.8,52.3,2010 prices,2020 report figures (2010-base); 2025 report shows higher figures (2015-base),CBSL Socio-Economic Data 2020
+2019,15911,15470,709516,3968,-0.2,4.3,2013=100,3.5,2013=100,178.78,4.8,52.3,2015 prices,PREFERRED — 2025 report revised figures using 2015 GDP base,CBSL Socio-Economic Data 2025
+2020,15646,15223,694520,3747,-4.6,4.6,2013=100,6.2,2013=100,185.52,5.5,50.6,2015 prices,COVID-19 impact,CBSL Socio-Economic Data 2025
+2021,17612,17217,777073,3910,4.2,6.0,2013=100,7.0,2013=100,198.88,5.1,49.9,2015 prices,,CBSL Socio-Economic Data 2025
+2022,24063,23446,1057035,3379,-7.3,46.4,2013=100,50.4,2013=100,324.55,4.7,49.8,2015 prices,Sovereign default April 2022; CCPI peaked ~57% mid-year,CBSL Socio-Economic Data 2025
+2023,27420,26586,1206441,3685,-2.3,17.4,2021=100,16.5,2021=100,327.53,4.7,48.6,2015 prices,IMF EFF program commenced March 2023; CCPI rebased to 2021,CBSL Socio-Economic Data 2025
+2024,29899,29154,1330255,4404,5.0,1.2,2021=100,1.6,2021=100,302.12,4.4,47.4,2015 prices,Provisional,CBSL Socio-Economic Data 2025

@@ -1,0 +1,16 @@
+survey_year,avg_income_per_spending_unit_rs,avg_income_per_income_receiver_rs,decile_1_pct,decile_2_pct,decile_3_pct,decile_4_pct,decile_5_pct,decile_6_pct,decile_7_pct,decile_8_pct,decile_9_pct,decile_10_pct,gini_spending_units,gini_income_receivers,series,notes,source
+1953,169,108,1.51,3.56,3.56,4.37,5.71,6.31,7.94,10.39,14.16,42.49,0.46,0.50,Consumer Finances & Socio-Economic Survey (CFSES),,CBSL Socio-Economic Data 2025
+1963,193,134,1.17,2.70,3.56,4.57,5.55,6.82,8.98,11.46,16.01,39.24,0.45,0.49,CFSES,,CBSL Socio-Economic Data 2025
+1973,311,228,1.80,3.17,4.38,5.70,7.10,8.75,10.56,12.65,15.91,29.98,0.35,0.41,CFSES,,CBSL Socio-Economic Data 2025
+1978/79,921,606,1.19,2.57,3.57,4.80,5.93,7.37,9.10,11.36,15.36,38.73,0.43,0.50,CFSES,,CBSL Socio-Economic Data 2025
+1981/82,1652,1108,1.17,2.45,3.41,4.53,5.53,6.86,8.54,10.68,14.87,41.93,0.45,0.52,CFSES,,CBSL Socio-Economic Data 2025
+1986/87,2728,1817,1.09,2.45,3.40,4.39,5.69,6.79,8.37,11.08,15.37,41.37,0.46,0.52,CFSES,Excluding Northern and Eastern Provinces,CBSL Socio-Economic Data 2025
+1996/97,8744,5760,1.27,2.77,3.86,4.93,6.10,7.44,9.12,11.55,15.68,37.28,0.43,0.48,CFSES,Excluding Northern and Eastern Provinces,CBSL Socio-Economic Data 2025
+2003/04,15400,10754,1.07,2.52,4.10,4.20,5.76,7.30,8.70,11.20,15.47,39.70,0.46,0.50,CFSES,Excluding Kilinochchi + Mannar + Mullaitivu Districts,CBSL Socio-Economic Data 2025
+2002,,8482,,,,,,,,,,0.47,0.53,HIES,,CBSL Socio-Economic Data 2025
+2005,,10563,,,,,,,,,,0.47,0.55,HIES,,CBSL Socio-Economic Data 2025
+2006/07,,14457,,,,,,,,,,0.49,0.55,HIES,,CBSL Socio-Economic Data 2025
+2009/10,,20427,,,,,,,,,,0.49,0.55,HIES,,CBSL Socio-Economic Data 2025
+2012/13,,25963,,,,,,,,,,0.48,0.53,HIES,,CBSL Socio-Economic Data 2025
+2016,,33894,,,,,,,,,,0.45,0.51,HIES,,CBSL Socio-Economic Data 2025
+2019,,42308,,,,,,,,,,0.46,0.52,HIES,,CBSL Socio-Economic Data 2025

@@ -1,0 +1,12 @@
+survey_year,food_rice_pct,food_wheat_flour_pct,food_bread_pct,food_condiments_pct,food_pulses_pct,food_vegetables_pct,food_coconuts_pct,food_meat_pct,food_fish_pct,food_dried_fish_pct,food_milk_pct,food_eggs_pct,food_fruits_pct,food_sugar_pct,food_other_drinks_pct,nonfood_housing_pct,nonfood_fuel_light_pct,nonfood_clothing_pct,nonfood_health_care_pct,nonfood_transport_comm_pct,nonfood_education_pct,nonfood_cultural_entertainment_pct,nonfood_nondurable_hh_goods_pct,nonfood_consumer_durables_pct,nonfood_other_pct,nonfood_liquor_tobacco_pct,source
+1980/81,31.5,2.4,4.7,8.0,,7.5,8.2,,4.9,3.2,3.3,,,,, ,,,,,,,,,,,HIES 1980/81 — DCS / CBSL Socio-Economic Data 2015 (partial — some sub-categories not published)
+1985/86,25.3,2.6,5.3,9.8,3.6,9.9,5.9,2.6,5.9,4.0,4.3,0.9,1.2,6.3,12.5,16.8,11.8,10.8,9.1,11.9,3.3,,, 4.4,22.9,9.0,HIES 1985/86 — DCS / CBSL Socio-Economic Data 2025
+1990/91,25.7,1.5,4.5,10.6,4.8,9.9,5.5,3.4,5.8,4.2,5.1,1.1,1.3,6.5,10.1,22.3,11.8,10.4,9.7,12.6,4.3,2.2,3.9,3.5,10.0,9.4,HIES 1990/91 — DCS / CBSL Socio-Economic Data 2025
+1995/96,21.2,1.1,4.4,9.9,3.7,8.3,6.9,4.4,6.6,4.6,7.1,1.1,1.7,5.2,13.8,27.8,9.9,9.5,10.4,12.9,4.3,2.3,2.9,4.1,8.6,7.4,HIES 1995/96 — DCS / CBSL Socio-Economic Data 2025
+2002,18.0,1.2,4.3,9.1,3.2,7.9,7.3,3.2,6.3,3.7,8.4,0.8,3.6,3.3,19.6,22.8,7.6,5.3,8.0,12.7,4.3,2.0,1.9,4.4,26.8,4.2,HIES 2002 — DCS / CBSL Socio-Economic Data 2025
+2005,13.8,1.2,3.6,9.0,3.4,8.1,5.6,4.4,8.5,3.8,9.9,1.0,3.9,3.3,20.3,17.8,7.0,5.1,9.6,15.0,4.1,2.2,2.7,6.2,26.2,4.1,HIES 2005 — DCS / CBSL Socio-Economic Data 2025
+2006/07,13.9,1.1,3.5,9.3,3.5,8.4,5.5,4.2,8.6,4.0,8.7,1.0,3.4,3.6,21.2,18.4,7.3,4.9,6.9,16.8,4.4,1.8,2.1,5.5,28.5,3.4,HIES 2006/07 — DCS / CBSL Socio-Economic Data 2025
+2009/10,17.3,1.4,3.2,9.1,4.1,7.6,5.6,3.9,8.8,3.7,7.8,1.0,2.9,3.4,20.1,19.1,7.1,5.0,7.9,17.0,5.6,2.2,1.5,4.3,26.6,3.7,HIES 2009/10 — DCS / CBSL Socio-Economic Data 2025
+2012/13,13.6,1.3,3.0,9.0,3.5,8.2,6.1,4.3,9.1,4.2,8.9,1.0,2.9,2.9,21.8,18.1,6.8,4.6,8.5,16.7,5.6,2.0,1.2,3.9,29.8,2.7,HIES 2012/13 — DCS / CBSL Socio-Economic Data 2025
+2016,12.8,1.0,2.4,9.8,3.6,8.0,5.7,4.8,9.5,4.0,8.2,1.1,3.2,2.2,23.6,19.2,4.9,4.4,7.0,15.5,5.8,2.5,1.0,6.3,30.5,2.9,HIES 2016 — DCS / CBSL Socio-Economic Data 2025
+2019,12.8,0.8,2.2,11.7,3.1,8.2,5.4,5.1,9.4,4.0,7.3,1.3,3.0,1.9,23.8,21.3,5.1,4.1,6.5,14.2,5.9,2.3,1.1,11.0,26.1,2.3,HIES 2019 — DCS / CBSL Socio-Economic Data 2025
