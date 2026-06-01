@@ -224,11 +224,21 @@ This inventory maps each README data source to a concrete dataset deliverable (o
 - **Datasets (planned):**
   - `data/un-data/education_health_spending.csv` — 1990–present — `indicator_code`, `year`, `value`
 - **Citation:** UN Data. https://data.un.org
+ 
+---
+ 
+## Derived datasets (frontend-ready)
+
+These datasets are aggregated from existing CBSL/HIES data to provide a lightweight, consistent input layer for the frontend UI. They do not introduce new primary sources.
+
+- `data/derived/era_affordability.csv` — 2002–2024 — `era_label`, `survey_year`, `mean_income_monthly_lkr`, `mean_expenditure_monthly_lkr`, `inflation_index_2003_base`, `exchange_rate_lkr_usd`
+  - Includes a 2024 estimate derived by inflating 2019 HIES values using CCPI annual average inflation.
+- `data/derived/inflation_exchange_series.csv` — 2003–2024 — `year`, `ccpi_annual_avg_pct`, `inflation_index_2003_base`, `exchange_rate_lkr_usd`
 
 ---
 
 ## Gaps / approval needed before extraction
-
+ 
 - **Private marketplaces:** PriceLanka.lk, Riyasewana, ikman.lk (vehicle listings) — confirm permission or provide alternatives.
 - **Paid source:** CEIC Data — confirm license and redistribution rights or provide a free alternative.
 - **Potential restrictions:** Global Property Guide, LankaPropertyWeb — confirm permission for automated access and reuse.

@@ -1,0 +1,8 @@
+era_id,era_label,survey_year,era_year,mean_income_monthly_lkr,median_income_monthly_lkr,mean_expenditure_monthly_lkr,household_size,food_ratio_pct,inflation_index_2003_base,ccpi_annual_avg_pct,exchange_rate_lkr_usd,source
+hies_2002,2002 (HIES),2002,2002,12803,8482,13147,4.2,44.5,1.000000,,96.52, HIES 2002 — DCS / CBSL Socio-Economic Data 2025
+hies_2006_07,2006/07 (HIES),2006/07,2006,26286,16735,22952,4.1,37.6,1.330890,10.0,103.96, HIES 2006/07 — DCS / CBSL Socio-Economic Data 2025
+hies_2009_10,2009/10 (HIES),2009/10,2009,36451,23746,31331,4.0,42.3,1.953717,3.4,114.90, HIES 2009/10 — DCS / CBSL Socio-Economic Data 2025
+hies_2012_13,2012/13 (HIES),2012/13,2012,45878,30814,41444,3.9,37.8,2.382116,7.6,127.60, HIES 2012/13 — DCS / CBSL Socio-Economic Data 2025
+hies_2016,2016 (HIES),2016,2016,62237,43511,54999,3.8,34.8,2.795923,4.0,145.60, HIES 2016 — DCS / CBSL Socio-Economic Data 2025
+hies_2019,2019 (HIES),2019,2019,76414,53333,63130,3.7,35.1,3.242284,4.3,178.78, HIES 2019 — DCS / CBSL Socio-Economic Data 2025
+estimate_2024,2024 (Estimated from 2019 HIES),2019,2024,147367,102854,121748,3.7,35.1,6.252854,1.2,302.12,Estimated by inflating 2019 HIES using CCPI annual average inflation (CBSL Socio-Economic Data 2025)
