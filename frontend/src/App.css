@@ -1,0 +1,310 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  padding: 56px 72px 96px;
+}
+
+@media (max-width: 960px) {
+  .page {
+    padding: 32px 20px 64px;
+    gap: 32px;
+  }
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+}
+
+@media (max-width: 960px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+}
+
+.hero-copy h1 {
+  margin: 12px 0 16px;
+}
+
+.hero-panel {
+  align-self: stretch;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.lead {
+  font-size: 20px;
+  color: var(--text);
+  margin: 0;
+}
+
+@media (max-width: 960px) {
+  .lead {
+    font-size: 18px;
+  }
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.section-header h2 {
+  margin: 0 0 8px;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: var(--shadow);
+}
+
+.warning {
+  border-color: var(--warning);
+  background: var(--warning-bg);
+}
+
+.meta-list {
+  display: grid;
+  gap: 12px;
+}
+
+.meta-label {
+  display: block;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.meta-value {
+  font-weight: 600;
+  color: var(--text-strong);
+}
+
+.control-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.input-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 8px 12px;
+  background: var(--surface-alt);
+}
+
+.input-prefix {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+input[type='number'] {
+  border: none;
+  background: transparent;
+  font-size: 18px;
+  color: var(--text-strong);
+  width: 100%;
+}
+
+input[type='number']:focus {
+  outline: none;
+}
+
+.toggle-fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.toggle {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 15px;
+  color: var(--text);
+}
+
+.toggle input {
+  accent-color: var(--primary);
+}
+
+.helper {
+  font-size: 14px;
+  color: var(--muted);
+  margin-top: 12px;
+}
+
+.era-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.era-card {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.era-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.badge {
+  background: var(--primary-soft);
+  color: var(--primary);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.metric-label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.metric-value {
+  display: block;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-strong);
+}
+
+.metric-sub {
+  display: block;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.status-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  font-size: 13px;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: var(--surface-alt);
+  color: var(--text-strong);
+}
+
+.chip-good {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--success);
+}
+
+.chip-warn {
+  background: rgba(249, 115, 22, 0.15);
+  color: var(--warning);
+}
+
+.chart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 16px;
+}
+
+.chart-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.chart {
+  width: 100%;
+  height: 240px;
+}
+
+.chart-axis {
+  stroke: var(--border);
+  stroke-width: 1;
+}
+
+.chart-line {
+  fill: none;
+  stroke-width: 2.5;
+}
+
+.chart-bar {
+  fill: var(--success);
+}
+
+.chart-label {
+  font-size: 12px;
+  fill: var(--muted);
+}
+
+.chart-legend {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.methodology {
+  margin: 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 8px;
+  color: var(--text);
+}
+
+.muted {
+  color: var(--muted);
+  font-size: 14px;
+}

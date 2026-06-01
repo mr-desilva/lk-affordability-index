@@ -49,13 +49,50 @@ All data is sourced from publicly available official and independent sources. Po
 ---
 
 ## 🧮 Methodology
- 
+  
 Data is sourced from official publications wherever possible. Where exact year-by-year data is unavailable (e.g. between HIES survey years), figures are interpolated using the published Colombo Consumer Price Index (CCPI). Post-2022 figures are clearly marked as estimates.
- 
+  
 See [`METHODOLOGY.md`](./METHODOLOGY.md) for a full explanation of how each figure is derived, its confidence level, and the exact source citation.
- 
+
 ---
- 
+
+## 🖥️ Frontend (React + Vite)
+
+The frontend lives in `frontend/` and loads datasets from the repository `data/` directory (configured via Vite `publicDir`).
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Build a static bundle with:
+
+```bash
+npm run build
+```
+
+---
+
+## 🧭 Data pipeline (derived datasets)
+
+Frontend-ready snapshots are stored under `data/derived/` and are computed from the CBSL/HIES raw CSVs:
+
+- `data/derived/era_affordability.csv` — era-level income/expenditure with inflation index and exchange rates.
+- `data/derived/inflation_exchange_series.csv` — CCPI annual inflation with cumulative index + LKR/USD.
+
+These derived datasets keep the UI fast while preserving raw sources in `data/cbsl-socioeconomic-2025/`. Update metadata in `data/dataset_metadata.csv` and `data/DATASETS_INVENTORY.md` whenever derived data is refreshed.
+
+---
+
+## 🧮 Calculator assumptions
+
+- Inflation adjustment uses CCPI annual average inflation from CBSL macro indicators.
+- Exchange-rate adjustment converts salary to USD (base year) then back into LKR using the era’s average LKR/USD rate.
+- 2024 figures are estimated by inflating 2019 HIES values using CCPI annual averages (flagged as estimates in the dataset).
+
+---
+  
 ## 🤝 Contributing
  
 Contributions are welcome — especially if you have access to more granular HIES data, historical property price records, or can help with the Sinhala language version.

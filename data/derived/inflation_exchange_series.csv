@@ -1,0 +1,23 @@
+year,ccpi_annual_avg_pct,inflation_index_2003_base,exchange_rate_lkr_usd,notes,source
+2003,,1.000000,96.52,Labour force excl. Northern Province; GNP used (pre-GNI terminology),CBSL Socio-Economic Data 2008
+2004,9.0,1.090000,101.19,Labour force excl. Kilinochchi and Mullaitivu districts,CBSL Socio-Economic Data 2008
+2005,11.0,1.209900,100.50,Labour force all districts (one-off survey Aug 2005),CBSL Socio-Economic Data 2008
+2006,10.0,1.330890,103.96,Labour force excl. Northern and Eastern provinces,CBSL Socio-Economic Data 2008
+2007,15.8,1.541171,110.60,Labour force excl. Northern and Eastern provinces,CBSL Socio-Economic Data 2008
+2008,22.6,1.889475,108.30,Labour force excl. Northern province,CBSL Socio-Economic Data 2010
+2009,3.4,1.953717,114.90,Labour force excl. Northern province,CBSL Socio-Economic Data 2010
+2010,6.2,2.074848,113.06,GDP rebased to 2010; real growth not directly comparable; labour force excl. Northern Province,CBSL Socio-Economic Data 2015
+2011,6.7,2.213863,110.57,Labour force excl. Northern and Eastern provinces,CBSL Socio-Economic Data 2015
+2012,7.6,2.382116,127.60,Full island labour force coverage from 2012,CBSL Socio-Economic Data 2015
+2013,6.9,2.546482,129.10,,CBSL Socio-Economic Data 2015
+2014,3.3,2.630516,130.60,Provisional,CBSL Socio-Economic Data 2015
+2015,2.2,2.688387,135.94,CCPI base rebased to 2013 from 2016; NCPI introduced,CBSL Socio-Economic Data 2020
+2016,4.0,2.795923,145.60,,CBSL Socio-Economic Data 2020
+2017,6.6,2.980454,152.46,Revised,CBSL Socio-Economic Data 2020
+2018,4.3,3.108613,162.54,Revised,CBSL Socio-Economic Data 2020
+2019,4.3,3.242284,178.78,PREFERRED — 2025 report revised figures using 2015 GDP base,CBSL Socio-Economic Data 2025
+2020,4.6,3.391429,185.52,COVID-19 impact,CBSL Socio-Economic Data 2025
+2021,6.0,3.594915,198.88,,CBSL Socio-Economic Data 2025
+2022,46.4,5.262955,324.55,Sovereign default April 2022; CCPI peaked ~57% mid-year,CBSL Socio-Economic Data 2025
+2023,17.4,6.178709,327.53,IMF EFF program commenced March 2023; CCPI rebased to 2021,CBSL Socio-Economic Data 2025
+2024,1.2,6.252854,302.12,Provisional,CBSL Socio-Economic Data 2025
